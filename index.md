@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### Hey guys,
 
-You can use the [editor on GitHub](https://github.com/ClaudioSiervi/github-page-with-theme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Claudio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I really don't know what to say about myself that would mean something to you.
 
-### Markdown
+My family and friends give more meaning to my life.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Always trying to understand the world, and never reaching it out.
 
-```markdown
-Syntax highlighted code block
+Always trying to understand myself, and getting better each day.
 
-# Header 1
-## Header 2
-### Header 3
+Someday we will meet life outside our planet, but before I guess we'll learn to do telepathy.
 
-- Bulleted
-- List
+Meanwhile, I'm learning random stuff.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Find me around
+* https://github.com/ClaudioSiervi
+* https://www.linkedin.com/in/claudio-siervi/
+* https://stackoverflow.com/users/11281707/claudius
+* https://insightmaker.com/user/1CfYze7s2QUt33nM7bGjQY
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClaudioSiervi/github-page-with-theme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
