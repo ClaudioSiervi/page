@@ -1,6 +1,6 @@
-## github-page-with-theme
+## Claudio's Page
+https://claudio.siervi.xyz  
+https://claudiosiervi.github.io/page/  
 
-https://claudiosiervi.github.io/page/
-
-![image](https://user-images.githubusercontent.com/16821891/122854599-54187000-d2ea-11eb-8fac-d3c2bad727e3.png)
-
+Made from the GitHub Pages with Minimal Theme.  
+https://pages-themes.github.io/minimal/
