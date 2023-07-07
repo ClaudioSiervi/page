@@ -2,16 +2,15 @@
 
 My name is Claudio.
 
-I really don't know what to say that would mean something to you.
-
 My family and friends give more meaning to my life.
 
 I'm always trying to understand the world, and never reaching it out.
 
 I'm always trying to understand myself, and getting better each day.
 
-I think that someday we will find life outside our planet,  
-but, first, I guess we'll learn how to do telepathy.
+I think that someday we will find life outside our planet.
+
+But, first, I guess we'll learn how to do telepathy.
 
 Meanwhile... I keep learning random stuff.
 
