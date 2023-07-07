@@ -4,7 +4,7 @@
 
     Family and friends makes my life meaningful.
 
-    Understanding the world is hard to accept.
+    Understanding the world is hard to achieve.
 
     Understanding myself is getting better each day.
 
