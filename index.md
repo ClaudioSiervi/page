@@ -1,18 +1,18 @@
 ### Hey there
 
-My name is Claudio.
+    My name is Claudio.
 
-My family and friends give more meaning to my life.
+    Family and friends makes my life meaningful.
 
-I'm always trying to understand the world, and never reaching it out.
+    Understanding the world is hard to accept.
 
-I'm always trying to understand myself, and getting better each day.
+    Understanding myself is getting better each day.
 
-I think that someday we will find life outside our planet.
+    Someday we will find life outside our planet.
 
-But, first, I guess we'll learn how to do telepathy.
+    First, I guess we'll learn how to do telepathy.
 
-Meanwhile... I keep learning random stuff.
+    Meanwhile... I keep learning random stuff.
 
 
 ### Find me around there
